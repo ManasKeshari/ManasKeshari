@@ -70,7 +70,7 @@
 <table>
 <tr>
   <th align="left">📧 Email</th>
-  <td>manaskeshari@example.com</td>
+  <td>manaskeshari022@gmail.com</td>
 </tr>
 <tr>
   <th align="left">📍 Location</th>
