@@ -3,7 +3,7 @@
 <div align="center">
 
 # Manas Keshari
-**Full-Stack Developer | BCA Graduate | Lucknow, UP
+Full-Stack Developer | Lucknow, UP
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Sans&size=24&pause=750&color=3776AB&center=true&lines=Full-Stack+Developer;FastAPI+%26+Django;React+%26+Next.js;Python+Expert;Open+for+Internships)](https://git.io/typing-svg)
 
