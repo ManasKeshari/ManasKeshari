@@ -1,39 +1,56 @@
 <div align="center">
 
-# Manas Keshari 👋
-**BCA 6th Sem | Full-Stack Developer | Lucknow, UP**
+# Hi there, I'm Manas Keshari! 🚀
+**BCA 6th Sem | Full-Stack Developer | Lucknow, India**
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=250&color=3776AB&center=true&lines=Full-Stack+Developer+%F0%9F%9A%80;BCA+Final+Year+2026;Next.js+React+FastAPI;AWS+Docker+Deployed;Production+APIs;Open+to+Jobs)](https://github.com/ManasKeshari)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code+Mono;size=32&pause=1000&color=3776AB&center=true&lines=Full-Stack+Developer+%F0%9F%9A%80;Building+Production+APIs;FastAPI+%7C+Django+%7C+Next.js;AWS+%7C+React+%7C+Docker;Job-Ready+2026+%F0%9F%8F%86">
+  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code+Mono;size=32&pause=1000&color=3776AB&center=true&lines=Full-Stack+Developer+%F0%9F%9A%80;Building+Production+APIs;FastAPI+%7C+Django+%7C+Next.js;AWS+%7C+React+%7C+Docker;Job-Ready+2026+%F0%9F%8F%86">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code+Mono;size=32&pause=1000&color=3776AB&center=true&lines=Full-Stack+Developer+%F0%9F%9A%80;Building+Production+APIs;FastAPI+%7C+Django+%7C+Next.js;AWS+%7C+React+%7C+Docker;Job-Ready+2026+%F0%9F%8F%86" alt="typing svg">
+</picture>
+
+![Snake Animation](https://github.com/ManasKeshari/ManasKeshari/blob/output/github-contribution-grid-snake.svg)
 
 </div>
 
-## 🔥 About Me
-- 🔭 Building production APIs (FastAPI, Django, Node.js) deployed on AWS/Render
-- 🌱 BCA 6th Sem, Lucknow | Passionate about scalable backends & full-stack
-- 💼 Job-ready for IT/Telecom (Jio, Airtel) | Open to internships
-- ⚡ Fun fact: AI music & 3D animation hobbyist turned developer
+## ✨ About Me
+<p>
+  <em>BCA Final Year building scalable APIs & full-stack apps. Open to IT/Telecom roles in Lucknow!</em>
+</p>
 
-![Your Stats](https://github-readme-stats.vercel.app/api?username=ManasKeshari&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ManasKeshari&layout=compact&theme=radical&hide_border=true)
+- 🌱 FastAPI, Django, Next.js, AWS, Docker
+- 💼 E-Commerce, Task SaaS, Chat APIs deployed live
+- 🎮 Gaming & AI music on the side (Valorant, Suno AI)
+- 📫 Reach me: [manaskeshari@email.com](mailto:manas@example.com)
 
-## 🛠️ Tech Stack
-![Frontend](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Backend](https://img.shields.io/badge/FastAPI-00599C?style=for-the-badge&logo=fastapi&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![DB](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![DevOps](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+## 🛠️ Animated Skills
+```mermaid
+graph TD
+    A[Frontend<br/>Next.js React Svelte] --> B[Backend<br/>FastAPI Django Node.js]
+    B --> C[Databases<br/>PostgreSQL MongoDB]
+    C --> D[DevOps<br/>AWS Docker CI/CD]
+    style A fill:#61DAFB
+    style B fill:#00599C
+    style C fill:#336791
+    style D fill:#232F3E
 
-## 💼 Featured Projects
-[![Ecom API](https://img.shields.io/badge/E%20Commerce%20API-00D084?style=for-the-badge&logo=fastapi&logoColor=white)](https://github.com/ManasKeshari/ecom-api)
-[![Task SaaS](https://img.shields.io/badge/Task%20Manager-092E20?style=for-the-badge&logo=django&logoColor=white)](https://github.com/ManasKeshari/task-saas)
-
-> **🚀 Pinned Repos**: Pin your 5-6 best (Settings > Pin). Shows top of profile.
-
-## 📈 GitHub Stats
-![Activity](https://github-readme-activity-graph.vercel.app/graph?username=ManasKeshari&theme=react-dark&hide_border=true)
-
-## 📫 Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/manaskeshari)
-[![Portfolio](https://img.shields.io/badge/Portfolio-00D084?style=for-the-badge&logo=vercel&logoColor=white)](https://manaskeshari.live)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:manas@example.com)
-
-<div align="center">Thanks for visiting! ⭐ Star repos & say hi!</div>
+name: Generate Snake
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+jobs:
+  gen:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v4
+    - name: generate
+      uses: Platane/snk@v3
+      with:
+        github_user_name: ManasKeshari
+        outputs: |
+          output/github-contribution-grid-snake.svg
+          output/github-contribution-grid-snake-dark.svg?palette=github-dark
+    - uses: crazy-max/ghaction-github-pages@v4
+      with:
+        target_branch: output
