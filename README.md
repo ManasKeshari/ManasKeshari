@@ -11,6 +11,23 @@
 ![FastAPI](https://img.shields.io/badge/FastAPI-00599C?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+```yaml
+name: Snake
+on: [workflow_dispatch]
+jobs:
+  svg:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v4
+    - uses: Platane/snk@v3
+      with:
+        github_user_name: ManasKeshari
+        outputs: |
+          dist/github-snake-dark.svg?palette=github-dark
+    - uses: crazy-max/ghaction-github-pages@v4
+      with:
+        target_branch: output
+        build_dir: dist
 
 ## 💼 Projects
 - [E-Commerce API (FastAPI)](https://github.com/ManasKeshari/ecom-api)
@@ -19,3 +36,4 @@
 ![Stats](https://github-readme-stats.vercel.app/api?username=ManasKeshari&show_icons=true&theme=radical)
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:manaskeshari@gmail.com)
+
