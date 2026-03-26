@@ -4,8 +4,8 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Sans&size=24&pause=750&color=3776AB&center=true&lines=Full-Stack+Developer;FastAPI+%26+Django;React+%26+Next.js;Python+Expert;Open+for+Internships)]
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ManasKeshari&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117)]
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ManasKeshari&layout=compact&theme=dark&hide_border=true)]
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ManasKeshari&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&cache_bust=1)]
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ManasKeshari&layout=compact&theme=dark&hide_border=true&hide=html,markdown&cache_bust=1)]
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:manaskeshari@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manas-keshari-0793a31b8)
