@@ -1,19 +1,59 @@
-
- 
 <div align="center">
 
-# Manas Keshari
-Full-Stack Developer | Lucknow, UP
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=800&color=00F7FF&center=true&vCenter=true&width=700&lines=Hey+👋,+I'm+Manas+Keshari;Full+Stack+Developer;Python+%7C+React+%7C+Django;Open+for+Internships+🚀" />
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Sans&size=24&pause=750&color=3776AB&center=true&lines=Full-Stack+Developer;FastAPI+%26+Django;React+%26+Next.js;Python+Expert;Open+for+Internships)](https://git.io/typing-svg)
+---
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ManasKeshari&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&cache_bust=1)](https://github.com/ManasKeshari)
+### 👨‍💻 Full-Stack Developer | Lucknow 🇮🇳
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ManasKeshari&layout=compact&theme=dark&hide_border=true&hide=html,markdown&cache_bust=1)](https://github.com/ManasKeshari)
+<img src="https://komarev.com/ghpvc/?username=ManasKeshari&label=Profile+Views&color=0e75b6&style=flat" />
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:manaskeshari022@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manas-keshari-0793a31b8)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=react&logoColor=white)](https://manaskeshari.live)
+</div>
+
+---
+
+## 🚀 About Me
+- 🎓 BCA Final Year (2026)
+- 💻 Full Stack Developer (Frontend + Backend)
+- ⚡ Love building real-world projects
+- 🌱 Currently learning **System Design & Scaling**
+- 🎯 Goal: Crack top tech internship
+
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+### 🌐 Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+### ⚙️ Backend
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+
+### 🗄️ Database
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql)
+
+### ☁️ Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=ManasKeshari&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ManasKeshari&theme=tokyonight&hide_border=true" height="160"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManasKeshari&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
 
 </div>
 
@@ -21,20 +61,44 @@ Full-Stack Developer | Lucknow, UP
 
 ## 💼 Projects
 
-| Project | Description | Tech Stack | Links |
-|--------|------------|------------|------|
-| **E-Commerce API** | Full-stack shop: auth, cart, payments | FastAPI + React + PostgreSQL | [Repo](https://github.com/ManasKeshari/ecommerce) |
-| **Task Manager** | Real-time SaaS with teams & notifications | Django + Next.js + Redis | [Repo](https://github.com/ManasKeshari/taskmanager) |
-| **Analytics Dashboard** | Live metrics with interactive charts | Next.js + Supabase + Tailwind | [Repo](https://github.com/ManasKeshari/analytics) |
+### 🛒 E-Commerce API
+- Auth, cart, payments system  
+- **FastAPI + React + PostgreSQL**  
+🔗 https://github.com/ManasKeshari/ecommerce  
+
+### 📋 Task Manager
+- Real-time team collaboration  
+- **Django + Next.js + Redis**  
+🔗 https://github.com/ManasKeshari/taskmanager  
+
+### 📊 Analytics Dashboard
+- Live charts & metrics  
+- **Next.js + Supabase + Tailwind**  
+🔗 https://github.com/ManasKeshari/analytics  
 
 ---
 
-## 📈 Contribution Snake
-![Snake animation](https://raw.githubusercontent.com/ManasKeshari/ManasKeshari/output/github-snake-dark.svg)
+## 🐍 Contribution Snake
+
+![snake gif](https://raw.githubusercontent.com/ManasKeshari/ManasKeshari/output/github-snake-dark.svg)
 
 ---
 
-**🚀 Open for Full-Stack Developer Roles**  
-**📧 manaskeshari022@gmail.com**  
-**📍 Lucknow, UP**
+## 📫 Connect With Me
 
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:manaskeshari022@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manas-keshari-0793a31b8)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=react&logoColor=white)](https://manaskeshari.live)
+
+---
+
+## ⚡ Fun Fact
+> I turn coffee ☕ into scalable web apps 🚀
+
+---
+
+<div align="center">
+
+### 🚀 Open for Internships & Full-Stack Roles
+
+</div>
