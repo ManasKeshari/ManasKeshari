@@ -38,16 +38,3 @@ Full-Stack Developer | Lucknow, UP
 **📧 manaskeshari022@gmail.com**  
 **📍 Lucknow, UP**
 
-**Connect:**  
-[LinkedIn](https://www.linkedin.com/in/manas-keshari-0793a31b8) | [Portfolio](https://manaskeshari.live)
-🔥 What I fixed:
-❌ Removed broken [ ] lines
-✅ Fixed Gmail mismatch (you had 2 different emails)
-✅ Clean alignment + spacing
-✅ Made links clickable properly
-If you want next level 🔥:
-Add tech stack icons
-Add visitor counter
-Add cool gradient header
-Add LeetCode / coding stats
-Just say: “make it more advanced” and I’ll upgrade it 😎
